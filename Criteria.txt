@@ -1,0 +1,110 @@
+Aberdeen
+Celtic
+Dundee
+Heart of Midlothian
+Hibernian
+Livingston
+Kilmarnock
+Motherwell
+Ross County
+St Johnstone
+St Mirren
+Dundee united
+Dunfermline
+Inverness
+Falkirk
+Partick
+Manchester United
+Liverpool
+Arsenal
+Everton
+Manchester City
+Aston Villa
+Sunderland
+Chelsea
+Newcastle United
+Sheffield Wednesday
+Huddersfield Town
+Wolverhampton Wanderers
+Leeds United
+Blackburn Rovers
+Preston North End
+Tottenham Hotspur
+Derby County
+Burnley
+Portsmouth
+Sheffield United
+West Bromwich Albion
+Ipswich Town
+Nottingham Forest
+Leicester City
+Bristol City
+Oldham Athletic
+Cardiff City
+Charlton Athletic
+Blackpool
+Queens Park Rangers
+Watford
+Southampton
+Bolton Wanderers
+Notts County
+Middlesbrough
+West Ham United
+Crystal Palace
+Norwich City
+Stoke City
+Bradford City
+Wimbledon
+Birmingham City
+Coventry City
+Swansea City
+Luton Town
+Fulham
+Reading
+Bournemouth
+Brighton & Hove Albion
+Millwall
+Wigan Athletic
+Hull City
+Barcelona
+Real Madrid
+PSG
+Ajax
+Bayern Munich
+Dortmund
+AC Milan
+Inter Milan
+Juventus
+An Albianian
+An Algerian
+An Argentinian
+An Australian
+A Belguin
+A Bosnian
+A Canadian
+A Chiliean
+A Colombian
+A Croatian
+A Dane
+An Ecuadorian
+A Finn
+A Gabon
+A Georgian
+A German
+A Greek
+A Lithuanian
+A Malian
+A Nigerian
+A Dutch
+A Norwegian
+A Portuguese
+A Romanian
+A Russian
+A Slovakian
+A Swede
+A Switz
+A Tunisian
+A Turk
+An American
+A Welsh
+A Zambian
